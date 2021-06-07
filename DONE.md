@@ -1,0 +1,17 @@
+- Make it 6€-8€ monthly flat rate, no extra fees to get started. I will read 2/3 novels first month, probably 1 /month after that.
+- Jesus, I am confused. You write something about 6 Euro and then 20 Euro and then 4 Euro and use the term "what is really costs". WAAAAY to - complicated. I want to click a button with 9,99 Euro per month and that's it.
+- Too much text
+- Put all the FAQ on a spearte page
+- I want Netflix, not going to the 'videoclub'. I don't want to pay per exchange, I want flat rate.
+- If I need to buy a bunch of graphic novels from you for 20€ each, why shouldn't I do that from Amazon?
+- Show the prices (subscirotion plus seprate buying price) and the button to subsribe bigger and simpler
+- What if I always wanted to try graphic novels but didn't try them out yet, do you  have a 6 months testing package with random selections?
+- Have a navigation menu bar on top with "Home", "FAQ", "Subscribe" (and maybe "Prices" and maybe "List of all current novels available")
+- When and how can I cancel?
+- How do I pay?
+- a info how much it costs to buy them outright
+- Quite long FAQ due to complex financials model
+- Quite confused about pricing model. I get it, but feel it is overly complicated. I'm used to subscription. When I read the very top, I immediately - think of a 6€ monthly subscription. Then I'm proven wrong.
+- On flat rate: I suspect that with pay-per-exchange, I have to actively think and actively pay and feel that pain every time I want to read a new - novel. Instead, sounds better for both the business and myself to join a subscription, which I will surely forget, and then order an exchange - whenever I feel like it, and it feels 'free'.
+- I don't like delivery costs or paying for a lot of different, confusing extras. I want to pay 6€. I prefer to be lied to including it into other - costs of the service 'Costs €7 monthly'.
+- Market price:  If I want to read those, how much would it cost me without your service?

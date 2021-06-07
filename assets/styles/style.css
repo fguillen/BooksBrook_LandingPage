@@ -3,14 +3,24 @@ body {
     font-family: 'Gloria Hallelujah', cursive;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5 {
+.highlighted {
     background-color: aliceblue;
 }
 
 strong {
     background-color: antiquewhite;
+}
+
+.btn-xl {
+    padding: 0.5rem 2rem;
+    font-size: 4.25rem;
+}
+
+.container {
+    max-width: 640px;
+}
+
+.asterisk {
+    margin-left: -.6em;
+    vertical-align: top;
 }

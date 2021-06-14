@@ -13,7 +13,7 @@
     <!-- Bootstrap core CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 
-    <title>Books Brook · Pricing</title>
+    <title>Books Brook · Subscribe</title>
     <link href="/stylesheets/site.css" rel="stylesheet" />
     <script src="/javascripts/site.js"></script>
 
@@ -49,65 +49,48 @@
             </div>
         </header>
 
-        <main>
+        <!-- MailerLite Universal -->
+<script>
+    (function(m, a, i, l, e, r) {
+        m['MailerLiteObject'] = e;
+
+        function f() {
+            var c = {
+                a: arguments,
+                q: []
+            };
+            var r = this.push(c);
+            return "number" != typeof r ? r : f.bind(c.q);
+        }
+        f.q = f.q || [];
+        m[e] = m[e] || f.bind(f.q);
+        m[e].q = m[e].q || f.q;
+        r = a.createElement(i);
+        var _ = a.getElementsByTagName(i)[0];
+        r.async = 1;
+        r.src = l + '?v' + (~~(new Date().getTime() / 1000000));
+        _.parentNode.insertBefore(r, _);
+    })(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+
+    var ml_account = ml('accounts', '3086542', 's9s5w9q4g9', 'load');
+</script>
+<!-- End MailerLite Universal -->
+
+<main>
     <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
-        <h1 class="display-4 fw-normal">Pricing</h1>
-        <p class="fs-5 text-muted pt-4">we really want to make things simple for you</p>
+        <h1 class="display-4 fw-normal">Big Opening Promotion</h1>
+        <p class="fs-5 text-muted pt-4">access to the big opening promotion. Without any compromise on your side at this moment.</p>
     </div>
 
-    <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
-        <div class="col">
-            <div class="card mb-4 rounded-3 shadow-sm border-warning">
-                <div class="card-header py-3 border-warning">
-                    <h4 class="my-0 fw-normal">1 graphic novel per month</h4>
-                </div>
-                <div class="card-body">
-                    <h1 class="card-title pricing-card-title">8€<small class="text-muted fw-light">/mo</small> <span class="asterisk fs-3">*</span></h1>
-                    <ul class="list-unstyled mt-3 mb-4">
-                        <li>Just testing the service</li>
-                    </ul>
-                    <a class="w-100 btn btn-lg btn-warning" href="./subscribe.html">Promotion</a>
-                </div>
-            </div>
-        </div>
-        <div class="col">
-            <div class="card mb-4 rounded-3 shadow-sm border-warning">
-                <div class="card-header py-3 border-warning">
-                    <h4 class="my-0 fw-normal">2 graphic novels per month</h4>
-                </div>
-                <div class="card-body">
-                    <h1 class="card-title pricing-card-title">12€<small class="text-muted fw-light">/mo</small> <span class="asterisk fs-3">*</span></h1>
-                    <ul class="list-unstyled mt-3 mb-4">
-                        <li>Most selected option</li>
-                    </ul>
-                    <a class="w-100 btn btn-lg btn-warning" href="./subscribe.html">Promotion</a>
-                </div>
-            </div>
-        </div>
-        <div class="col">
-            <div class="card mb-4 rounded-3 shadow-sm border-warning">
-                <div class="card-header py-3 border-warning">
-                    <h4 class="my-0 fw-normal">3 graphic novels per month</h4>
-                </div>
-                <div class="card-body">
-                    <h1 class="card-title pricing-card-title">16€<small class="text-muted fw-light">/mo</small> <span class="asterisk fs-3">*</span></h1>
-                    <ul class="list-unstyled mt-3 mb-4">
-                        <li>For the eager readers</li>
-                    </ul>
-                    <a class="w-100 btn btn-lg btn-warning" href="./subscribe.html">Promotion</a>
-                </div>
-            </div>
-        </div>
+    <div class="ml-form-embed" data-account="3086542:s9s5w9q4g9" data-form="3944242:q0d3q7">
     </div>
 
-    <p> <span class="asterisk">*</span> you can cancel any time! &middot; Do you have any <a href="./faq.html">Question?</a></p>
 </main>
 
 
         <footer class="pt-5 my-5 text-muted border-top text-center">
             Made with &lt;3 in Berlin &middot; Books Brook &copy; 2021 </footer>
     </div>
-
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
 </body>

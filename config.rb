@@ -46,3 +46,5 @@ page '/*.txt', layout: false
 # end
 
 set :build_dir, 'docs'
+
+activate :i18n, mount_at_root: :en

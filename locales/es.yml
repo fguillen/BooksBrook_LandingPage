@@ -26,7 +26,7 @@ es:
     steps:
       1_header: "#1 Seleciona tus intereses y la cantidad"
       1_text: selecciona tus intereses. Selecciona también cuántas novelas gráficas quieres leer cada mes.
-      2_header: "#2 Recive las novelas gráficas"
+      2_header: "#2 Recibe las novelas gráficas"
       2_text: recibes las novelas gráficas en tu casa.
       3_header: "#3 Cambia las novelas gráficas por otras"
       3_text: "devuélvenos gratuitamente las novelas gráficas ya leídas y vuelve al paso #2"

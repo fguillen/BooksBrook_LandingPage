@@ -1,13 +1,11 @@
 ---
-title: Books Brook · All the award winner graphic novels at a fraction of their price
+title: Books Brook · <%= t("index.title") %>
 ---
 
-<h1><%= t("hello") %></h1>
-
 <main class="text-center">
-    <p class="fs-2">do you live in Germany?</p>
-    <p class="fs-2">do you enjoy reading graphic novels?</p>
-    <p class="fs-2">check our inventory full of award winner graphic novels:</p>
+    <div class="fs-2">
+        <%= md(t("index.header")) %>
+    </div>
 
     <div id="carouselExampleControls" class="carousel slide col-xs-8 col-xl-10" style="margin: auto" data-bs-ride="carousel">
         <div class="carousel-inner" style="width:100%; height: 700px !important;">
@@ -311,34 +309,34 @@ title: Books Brook · All the award winner graphic novels at a fraction of their
           <span class="visually-hidden">Next</span>
         </button>
     </div>
-    <p class="fs-2">what do you think if I tell you that you can read all these award winner graphic novels for <strong>6€ each</strong> or less?</p>
+    <p class="fs-2"><%= t("index.header_sub") %></p>
 
-    <a href="./subscribe.html" class="btn btn-warning btn-xl mt-3">opening promotion</a>
+    <a href="./subscribe.html" class="btn btn-warning btn-xl mt-3"><%= t("subscribe_button") %></a>
 
 
     <header class="mt-5">
-        <img src="./assets/images/logo.png" class="img-fluid" alt="books brook logo" width="100px">
-        <h1 class="ms-2 highlighted">Books Brook - Germany</h1>
+        <%= image_tag "logo.png", alt: "Books Brook", width: "100px", class: "img-fluid"%>
+        <h1 class="ms-2 highlighted">Books Brook - <%= t("country") %></h1>
     </header>
 
-    <p class="fs-5">read all the best award winner graphic novels at a fraction of their price in the comfort of your home. With free delivery to the whole Germany.
+    <p class="fs-5"><%= t("index.service_description") %>
     </p>
 
     <section class="pt-5">
-        <h2 class="highlighted">How it works</h2>
+        <h2 class="highlighted"><%= t("index.how_it_works") %></h2>
 
-        <h4 class="highlighted">#1 Select your interests and the quantity</h4>
+        <h4 class="highlighted"><%= t("index.steps.1_header") %></h4>
         <%= image_tag "how_to_01.png", class: "img-fluid", alt: "how to 01", width: "400px" %>
-        <p class="fs-5 ">select your interests. Select also how many graphic novels you want to read each month.</p>
+        <p class="fs-5 "><%= t("index.steps.1_text") %></p>
 
-        <h4 class="highlighted">#2 Receive your graphic novels</h4>
+        <h4 class="highlighted"><%= t("index.steps.2_header") %></h4>
         <%= image_tag "how_to_02.png", class: "img-fluid", alt: "how to 02", width: "400px" %>
-        <p class="fs-5 ">you receive the graphic novels at your home.</p>
+        <p class="fs-5 "><%= t("index.steps.2_text") %></p>
 
-        <h4 class="highlighted">#3 Exchange your graphic novels for other ones</h4>
+        <h4 class="highlighted"><%= t("index.steps.3_header") %></h4>
         <%= image_tag "how_to_03.png", class: "img-fluid", alt: "how to 03", width: "400px" %>
-        <p class="fs-5 ">send us back, free of charge, your graphic novels already read and go back to step #2.</p>
+        <p class="fs-5 "><%= t("index.steps.3_text") %></p>
     </section>
 
-    <a href="./subscribe.html" class="btn btn-warning btn-xl mt-3">opening promotion</a>
+    <a href="./subscribe.html" class="btn btn-warning btn-xl mt-3"><%= t("subscribe_button") %></a>
 </main>

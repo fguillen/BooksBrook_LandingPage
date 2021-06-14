@@ -1,3 +1,117 @@
 ---
 es:
   hello: "Hola"
+
+  menu:
+    home: Índice
+    faq: Preguntas
+    pricing: Precios
+    contact: Contacto
+    promotion: Promocion
+
+  footer:
+    text: "Hecho con ♥ en Berlín &middot; Books Brook &copy; 2021"
+
+  index:
+    title: Lee todas las novelas gráficas más premiadas y sólo paga una fracción de su precio
+    button: opening promotion
+    header: >-
+      ¿te gusta leer novelas gráficas?
+
+
+      échale un vistazo a nuestro inventorio con todas las novelas gráficas más premiadas:
+    header_sub: ¿qué te parece si te digo que puedes leer todas estas premiadas novelas gráficas por <strong>6€ cada una</strong>, o menos?
+    service_description: lee, en la comodidad de tu casa, todas las mejores y más premiadas novelas gráficas por una fracción de su precio. Con envío gratuito a toda España.
+    how_it_works: How it works
+    steps:
+      1_header: "#1 Select your interests and the quantity"
+      1_text: select your interests. Select also how many graphic novels you want to read each month.
+      2_header: "#2 Receive your graphic novels"
+      2_text: you receive the graphic novels at your home.
+      3_header: "#3 Exchange your graphic novels for other ones"
+      3_text: "send us back, free of charge, your graphic novels already read and go back to step #2."
+
+  faq:
+    title: Questions and Answers
+    header: if you don't find your answers here you can <a href="mailto:hello@booksbrook.com" target="_blank">contact us</a> to make your questions.
+    questions: >-
+        #### Ok, how much does it really cost?
+
+        if you subscribe to 2 graphic novels per month the cost will be 6€ each graphic novel. There is no extra cost. The costs of deliveries and maintenance are on us.
+
+        #### Still confuse, give me an example of how much I will pay
+
+        if you decide to read 2 graphic novels per month it will cost you 12€ per month. If you want to read 3 graphic novels per month the cost will be 16€ per month. If you want to read only 1 graphic novel per month the cost will be 8€ per
+            month. See our [simple pricing model](./pricing.html)
+
+        #### Am I saving any money?
+
+        the price of purchasing any of these award winner graphic novels is of 25€ in average. So if you subscribe for 2 graphic novels per month you are effectively saving 38€ per month, as hard as it sounds.
+
+        #### Can I choose the graphic novels I receive?
+
+        yes. You can select what graphic novels from our inventory you are interested on. We can not warranty in which delivery will be each graphic novel but we will be sure we select only the ones you have chosen.
+
+        #### Can I change my interest selection?
+
+        yes. Any time. As many times you want.
+
+        #### When do I have to return the graphic novels?
+
+        at the end of the month. So you can receive the new ones at the beginning of the month. That gives you around 20 days to read your graphic novels.
+
+        #### Can I keep a graphic novel if I like it so much?
+
+        if you insist, you can purchase from us with a 30% discount over the price of the market.
+
+        #### Will I receive only brand new graphic novels?
+
+        nop, the graphics novels are co-owned for all members. We ask the members to treat the graphic novels with care. We will try to remove from our inventory any graphic novel that is not in good conditions.
+
+        #### In which language are the graphic novels?
+
+        english, all english.
+
+        #### Why all in english?
+
+        because we are small, and we want to remain small, and we have not capacity to keep inventories in different languages.
+
+        #### When and how can I cancel?
+
+        3 months is the minimum subscription period, after that you can cancel any time, no questions asked.
+
+        #### Why 3 months minium subscription period?
+
+        this is the minimum we need to ask to help us to finance the investment of buying new inventory.
+
+        #### How and when do I pay?
+
+        you can pay with your credit card or Paypal. The first 3 months is paid in advance, the rest months will be charged at the beginning of each month.
+
+  subscribe:
+    title: Big Opening Promotion
+    header: access to the big opening promotion. Without any compromise on your side at this moment.
+
+  confirmation:
+    title: Subscription confirmation
+    header: yeah!, we really appreciate that you are showing interest on this project. We will keep you update with the progress.
+
+  pricing:
+    title: Pricing
+    header: we really want to make things simple for you
+    month: mo
+    button: Promotion
+
+    price_1:
+      title: 1 graphic novel per month
+      text: Just testing the service
+
+    price_2:
+      title: 2 graphic novels per month
+      text: Most selected option
+
+    price_3:
+      title: 3 graphic novels per month
+      text: For the eager readers
+
+    footer: <span class="asterisk">*</span> you can cancel any time! &middot; Do you have any <a href="./faq.html">Question?</a>

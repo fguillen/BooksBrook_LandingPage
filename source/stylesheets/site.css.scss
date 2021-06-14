@@ -17,7 +17,7 @@ strong {
 }
 
 .container {
-    max-width: 640px;
+    max-width: 730px;
 }
 
 .asterisk {
@@ -46,4 +46,12 @@ strong {
 #mlb2-3944242.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent p,
 #mlb2-3944242.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent p {
     font-family: 'Gloria Hallelujah', cursive !important;
+}
+
+.faq-questions p {
+    font-size: 1.25rem;
+}
+
+.faq-questions h4 {
+    background-color: aliceblue;
 }

@@ -1,6 +1,8 @@
 ---
 es:
-  hello: "Hola"
+  hello: "Hello"
+  country: España
+  subscribe_button: promoción de apertura
 
   menu:
     home: Índice

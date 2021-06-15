@@ -43,7 +43,6 @@
                     <a class="me-3 py-2 text-dark text-decoration-none" href="./"><%= t("menu.home") %></a>
                     <a class="me-3 py-2 text-dark text-decoration-none" href="./faq.html"><%= t("menu.faq") %></a>
                     <a class="me-3 py-2 text-dark text-decoration-none" href="./pricing.html"><%= t("menu.pricing") %></a>
-                    <a class="me-3 py-2 text-dark text-decoration-none" href="mailto:hello@booksbrook.com" target="_blank"><%= t("menu.contact") %></a>
                     <a class="py-2 text-dark text-decoration-none btn btn-warning" href="./subscribe.html"><%= t("menu.promotion") %></a>
                 </nav>
             </div>
@@ -52,7 +51,7 @@
         <%= yield %>
 
         <footer class="pt-5 my-5 text-muted border-top text-center">
-            <%= t("footer.text") %> <br />
+            <%= t("footer.text") %>  &middot; <a class="me-3 py-2 text-dark" href="mailto:hello@booksbrook.com" target="_blank"><%= t("menu.contact") %> <br />
             <a href="/es">España</a> &middot; <a href="/">Germany</a>
          </footer>
     </div>

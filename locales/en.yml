@@ -7,6 +7,14 @@ en:
   description: Read all the best award winner graphic novels at a fraction of their price in the comfort of your home. With free delivery to the whole Germany.
   keywords: award winning graphic novels, best graphic novels, cheap graphic novels, second hand graphic novels
 
+  cookies:
+    locale: en
+    header: The cookies
+    description: We use Google Analytics cookies to measure our marketing efforts, if this is ok for you please click Accept :)
+    link: Check our Privacy Policy
+    accept: Accept
+    reject: Reject
+
   menu:
     home: Home
     faq: FAQ
@@ -108,3 +116,30 @@ en:
       text: For the eager readers
 
     footer: <span class="asterisk">*</span> you can cancel any time! &middot; Do you have any <a href="./faq.html">Question?</a>
+
+  privacy_policy:
+    title: Privacy Policy
+    text: >-
+      ### Easy to understand Privacy Policy
+
+      Last updated: April 18, 2021
+
+      ### What data of you we collect, why and with who are we sharing it
+
+      #### Email and Name
+
+      To communicate with you about the evolution of our service
+
+      We allocate this data in mailerlite.com to manage the mailing list
+
+      ### What cookies are we using
+
+      #### Google Analytics cookie
+
+      To check what marketing channels are more efficient to reach people interested in this service
+
+      This cookie is managed by Google
+
+      ### Contact Us
+
+      If you have any questions about this Privacy Policy, You can contact us by email: hello@booksbrook.com

@@ -7,6 +7,15 @@ es:
   description: Lee, en la comodidad de tu casa, todas las mejores y más premiadas novelas gráficas por una fracción de su precio. Con envío y recogida gratuitos en toda España.
   keywords: las mejores novelas gráficas, novelas gráficas premiadas, novelas gráficas baratas, novelas gráficas de segunda mano
 
+  cookies:
+    locale: es
+    header: Las cookies
+    description: Usamos algunas cookies, si no te gusta nada dale a 'Rechazar'.
+    link: Lee nuestra Politica de Privacidad
+    accept: Aceptar
+    reject: Rechazar
+
+
   menu:
     home: Inicio
     faq: Preguntas
@@ -100,3 +109,32 @@ es:
       text: Para los lectores más ávidos
 
     footer: <span class="asterisk">*</span> ¡Puedes cancelar en cualquier momento! &middot; ¿Tienes alguna <a href="./faq.html">pregunta?</a>
+
+  privacy_policy:
+    title: Política de Privacidad
+    text: >-
+      ### Fácil de entender Política de Privacidad
+
+      Última actualización: Abril 18, 2021
+
+      ### Que datos recogemos, porqué y con quién los compartimos
+
+      #### Nombre y email
+
+      Para comunicarnos contigo sobre actualizaciones de este servicio.
+
+      Usamos mailerlite.com para enviar los emails.
+
+      No enviamos ninguna clase de correo basura y no le damos tus datos a nadie.
+
+      ### Cuales son las cookies que usamos
+
+      #### Google Analytics
+
+      Para evaluar nuestros esfuerzos haciendo márketing de nuestro servicio.
+
+      This cookie is managed by Google.
+
+      ### Contáctanos
+
+      Si tienes alguna pregunta sobre esta Política de Privacidad o cualquier otra cosa nuestro email es: hello@booksbrook.com

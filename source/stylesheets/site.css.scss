@@ -12,8 +12,15 @@ strong {
 }
 
 .btn-xl {
-    padding: 0.5rem 2rem 1rem 2rem;
-    font-size: 3.25rem;
+    padding: 0.2rem 1rem 0.5rem 1rem;
+    font-size: 2rem;
+}
+
+@media (min-width: 576px) {
+    .btn-xl {
+        padding: 0.5rem 2rem 1rem 2rem;
+        font-size: 3.25rem;
+    }
 }
 
 .container {
